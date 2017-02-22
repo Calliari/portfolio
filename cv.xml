@@ -1,0 +1,90 @@
+<cv>
+  <name>Osvaldo Caliari</name>
+
+  <personal_detail>
+    <email>jrcalliari@me.com</email>
+    <phone>07577 282 373</phone>
+    <summary>
+      A versatile, professional and passionate about information technology with some real experience in web software development.
+      After I have finished my degree, I have built websites / web applications as a freelancer for small businesses on
+      my own as using the techniques and skills I have learned from my time at university.
+      I am ready to learn new technologies if I need and contribute to a organization for completeness of any software or hardware projects,
+      I want to progress to the next level to keep following my career pathway in IT using my skills to solve problems.
+    </summary>
+    <skill>〈	Experience of setting up and maintaining hardware and software systems</skill>
+    <skill>〈	Knowledge of all Microsoft office applications (Excel, Word, Outlook, Power point)</skill>
+    <skill>〈	Installing and maintaining databases, creating backup copies of data for security or data loss</skill>
+    <skill>〈	Good knowledge of programming languages like JAVA, C#, PHP.</skill>
+    <skill>〈	Web application technologies such as HTML, CSS, ASP.NET, Bootstrap.</skill>
+    <skill>〈	Experience of using VMware application/software for remote/access in development</skill>
+    <skill>〈	Networking and administration commands in server environment and CISCO networking</skill>
+    <skill>〈	Good database programming in Structured Query Language (SQL) programming languages</skill>
+    <skill>〈	Software database (SQL server 2012, MySQL, Oracle SQL developer, SQL plus, Microsoft Access)</skill>
+    <skill>〈	Basics Unit testing of all code in developing process</skill>
+    <skill>〈	Familiar with multiples Operating systems: Linux (Debian), Windows (XP, 7, 8, 10) and MAC OS X.</skill>
+  </personal_details>
+
+  <work_sperience>
+    <job>
+      <company>Freelancer Developer</company>
+      <title_job>Web Developer</title_job>
+      <location>London</location>
+      <duty_skill>
+        <skill>•	Building web applications using HTML, CSS, PHP language and bootstrap frameworks.</skill>
+        <skill>•	Giving total support maintenance on the web software I have developed for small business.</skill>
+        <skill>•	Setting up the server environment to host my clients’ web sites.</skill>
+      </duty_skill>
+    </job>
+
+    <job>
+      <company>Kuhn Interiors</company>
+      <title_job>IT assistant</title_job>
+      <location>London</location>
+      <duty_skill>
+        <skill>•	Help Desk IT support</skill>
+        <skill>•	Customer Services in client side</skill>
+        <skill>•	Logistic of delivers </skill>
+        <skill>•	Office assistant in many duties related to business </skill>
+      </duty_skill>
+    </job>
+
+    <job>
+      <company>Copa Brazil LTD</company>
+      <title_job>Supervisor and IT Support</title_job>
+      <location>London</location>
+      <duty_skill>
+        <skill>•	Installation, updating, upgrading computer hardware or system, IT desktop support, setting up equipment in the office.</skill>
+        <skill>•	Provide technical support over the phone to all users</skill>
+        <skill>•	Supervising and training new team members in key competencies</skill>
+        <skill>•	Provide troubleshooting and configuration support to users</skill>
+        <skill>•	Office tasks including booking checks for customers, receiving/sending requests through emails and phone calls</skill>
+        <skill>•	Organizing weekly routes among the staffs</skill>
+      </duty_skill>
+    </job>
+  <work_sperience>
+
+  <education>
+    <university_name>University of Greenwich</university_name>
+    <programme_study>Bachelor in Information Technology</programme_study>
+    <academic_modules>
+      <skill>•	System Development Project</skill>
+      <skill>•	Principle of Security</skill>
+      <skill>•	Networking System</skill>
+      <skill>•	Database Application Techniques</skill>
+      <skill>•	Network and Operate System</skill>
+      <skill>•	Computer Systems</skill>
+      <skill>•	Web Database Application</skill>
+      <skill>•	Communication Systems</skill>
+      <skill>•	Systems Building</skill>
+      <skill>•	Web Software Development</skill>
+      <skill>•	Computer Programming </skill>
+      <skill>•	Quantitative Methods</skill>
+      <skill>•	Database (Techniques, engineering)</skill>
+      <skill>•	Professionalism in the IT industry</skill>
+      <skill>•	Computer Systems and Internet Technology</skill>
+      <skill>•	Information Analysis</skill>
+</academic_modules>
+
+  </education>
+
+</cv>
