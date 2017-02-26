@@ -1,8 +1,230 @@
-ol{
-  h1{
-    color: red;
-  }
-  h4{
-    color:blue;
+// My own css styl using scss
+body{
+//  background-image: url(../img/devOps1.jpg);
+}
+.curriculum-background{
+  background-color: #2C0000;
+}
+
+ul.nav {
+  text-align: center;
+  .li{
+
   }
 }
+
+nav.navbar{
+  background-color: rgba(255, 255, 255, 0.34);
+  text-align: right;
+
+  .navbar-toggle{
+  //  border: 3px solid ;
+    border-radius: 100px;
+    border-color: #673AB7;
+    border: 3px solid #DCDCDC;
+    }
+
+}
+.navbar-brand {
+    float: left;
+    padding: 15px 15px;
+    font-size: 37px;
+    line-height: 22px;
+    font-family: 'Mr Dafoe', hevetica;
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #333;
+    background-color: rgba(103, 58, 183, 0.36);
+}
+
+.navbar-default .navbar-nav > li > a{
+  font-size: 25px;
+  color: white;
+}
+
+.academic-modules{
+  display: inline-block;
+}
+
+.block-container{
+  background-color: white;
+  margin: 7px;
+  padding: 26px;
+  box-shadow: 10px 10px 2px #888888;
+
+}
+
+// image css
+img{
+  height: 10%;
+}
+
+
+// 'vl' means vertical-line
+
+.vl-rightLine {
+    height: 100%;
+    padding: 0px 0px 10px 0px;
+    border-color: grey;
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+}
+
+// 'hl' means horizontal line
+.hl-topLine {
+      width: 100%;
+      border-color: grey;
+      border-style: solid;
+      border-width: 3px 0px 0px 0px;
+}
+
+.hl-bottomLine{
+    list-style-type: none;
+    width: 100%;
+    padding: 0px 0px 10px 0px;
+    border-color: grey;
+    border-style: solid;
+    border-width: 0px 0px 3px 0px;
+
+}
+
+.footer{
+  background-color: #2F4F4F;
+}
+
+.white-color{
+  color: white;
+}
+
+// ##################################
+// ##################################
+// This is the MATRIX code background
+
+.matrix {
+  font-size: 20px;
+  width: 100%;
+  height: 00px;
+
+
+  // overflow: hidden;
+  text-shadow: rgba(255, 255, 255, .8) 0px 0px 4px;
+  color: rgba(0, 255, 0, .7);
+  position: relative;
+  text-transform: lowercase;
+
+
+}
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes fadeing {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes falling {
+  from {
+    top: -100px;
+  }
+  to {
+    top: 388px;
+  }
+}
+/* ./END Safari 4.0 - 8.0 */
+
+/* Standard syntax */
+@keyframes fadeing {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes fadeing {
+  from {
+    top: -100px;
+  }
+  to {
+    top: 1280px;
+  }
+}
+
+ .matrix div{
+
+   position: absolute;
+   animation-name: falling, fadeing;
+   //animation-duration: 5s;
+   animation-timing-function: ease-out;
+   animation-delay: 0s;
+   animation-iteration-count: infinite;
+   animation-direction: normal;
+   animation-transform: rotate(90deg);
+
+   /************* Safari 4.0 - 8.0 ****************/
+   -webkit-animation-name: falling, fadeing; /* Safari 4.0 - 8.0 */
+   //-webkit-animation-duration: 5s; /* Safari 4.0 - 8.0 */
+   -webkit-animation-timing-function: ease-out;
+   -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+   -webkit-animation-direction: normal; /* Safari 4.0 - 8.0 */
+   -webkit-transform: rotate(90deg);
+   -webkit-animation-timing-function: ease-out;
+ }
+
+ div {
+
+   .t1{
+    -webkit-animation-duration: 5s;
+    animation-duration: 5s;
+    }
+    .t2{
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+    }
+    .t3{
+    -webkit-animation-duration: 5s;
+    animation-duration: 5s;
+    }
+    .t4{
+    -webkit-animation-duration: 7s;
+    animation-duration: 7s;
+    }
+    .t5{
+    -webkit-animation-duration: 9s;
+    animation-duration: 9s;
+   }
+   .t11{
+    -webkit-animation-duration: 11s;
+    animation-duration:11s;
+    }
+    .t12{
+    -webkit-animation-duration: 13s;
+    animation-duration:13s;
+    }
+    .t13{
+    -webkit-animation-duration: 15s;
+    animation-duration: 15s;
+    }
+    .t14{
+    -webkit-animation-duration: 17s;
+    animation-duration: 17s;
+    }
+    .t15{
+    -webkit-animation-duration: 19s;
+    animation-duration: 19s;
+   }
+  }
+
+
+
+// ##################################
+// ##################################
+//  END MATRIX code
