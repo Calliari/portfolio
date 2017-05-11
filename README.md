@@ -16,6 +16,6 @@ $ node-sass main.CSS > main.CSS
 ### open the terminal and type the following
 
 ```
-$ open osvaldo.html
+$ open index.html
 
 ```
